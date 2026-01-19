@@ -1,6 +1,6 @@
 ## Interface: 110205, 110207, 120000, 120001
 ## Title: MplusTooltip
-## Version: v11.0.5
+## Version: v12.0.0
 ## Notes: MplusTooltip
 ## Category-enUS: User Interface
 ## Category-deDE: Benutzerinterface
